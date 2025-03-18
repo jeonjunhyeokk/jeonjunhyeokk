@@ -56,6 +56,11 @@
   <br/>
   <br/>
 
+  ## 🏆 Awards 🏆
+  🎖️ 가천대학교 P-실무프로젝트 장려상 (AI ChatBot을 이용한 카드 추천 서비스)
+  <br/>
+  <br/>
+
   ## 💻 Github Stats 💻
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeonjunhyeokk&show_icons=true&theme=radical)
   <br/>
