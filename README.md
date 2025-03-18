@@ -1,12 +1,12 @@
+<!-- header -->
 <div>
   
-  <!-- header -->
-  ![header](https://capsule-render.vercel.app/api?type=waving&ccolor=gradient&height=400&section=header&text=ML%20개발자,%20전준혁%20입니다%20%F0%9F%A4%97)
+  ![header](https://capsule-render.vercel.app/api?type=waving&ccolor=gradient&height=300&section=header&text=ML%20개발자,%20전준혁%20입니다%20%F0%9F%A4%97)
 
 </div>
 
+<!-- body -->
 <div>
-  <!-- body -->
   <h2 align="left">👻 About Me 👻</h3>
   <p align="left">👤 전준혁</p>
   <p align="left">👤 가천대학교 컴퓨터공학과 학사 재중 (2020.03 ~ ) </p>
@@ -29,7 +29,7 @@
   <!--CSS-->
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <br>
-
+  
   ### 🗄️ Framework
   <!--React-->
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white&Color=white"/>
@@ -58,9 +58,10 @@
 
   ## 💻 Github Stats 💻
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeonjunhyeokk&show_icons=true&theme=radical)
-  <br />
+  <br/>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeonjunhyeokk)](https://github.com/anuraghazra/github-readme-stats)
-  <br />
+  <br/>
+  <br/>
 
   ## 🤙 Contact 🤙
   
@@ -68,6 +69,5 @@
   📬 E-mail : cjh6886@gachon.ac.kr <br/>
   
   
-
 
 </div>
