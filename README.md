@@ -20,8 +20,6 @@
   ### 🤟 Language
   <!--Python-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <!--Node.js-->
-  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=Node.js&logoColor=white"/>
   <!--JavaScript-->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <!--HTML5-->
@@ -49,6 +47,8 @@
   <br>
 
   ### ⚙️ ETC
+  <!--Node.js-->
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=Node.js&logoColor=white"/>
   <!--Amazon AWS-->
   <img src="https://img.shields.io/badge/AmazonWebServices-232F3E?style=flat-square&logo=AmazonWebServices&logoColor=white"/>
   <!--MySQL-->
