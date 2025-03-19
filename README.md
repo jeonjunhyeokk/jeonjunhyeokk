@@ -1,14 +1,14 @@
 <!-- header -->
 <div>
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&ccolor=gradient&height=300&section=header&text=ML%20개발자,%20전준혁%20입니다%20%F0%9F%A4%97)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20to%20JunHyeok's%20Github&fontSize=55&animation=fadeIn)
 
 </div>
 
 <!-- body -->
 <div>
   <h2 align="left">👻 About Me 👻</h3>
-  <p align="left">👤 전준혁</p>
+  <p align="left">👤 전준혁 (2001.12.17) </p>
   <p align="left">👤 가천대학교 컴퓨터공학과 학사 재중 (2020.03 ~ ) </p>
   <p align="left">👤 가천대학교 컴퓨터공학과 알고리즘 Lab 학부연구생 (2025.03 ~) </p>
   <p align="left">👤 가천대학교 일반대학원 컴퓨터공학과 석사 1차시 예정 (2025.09 ~) </p>
@@ -57,7 +57,7 @@
   <br/>
 
   ## 🏆 Awards 🏆
-  🎖️ 가천대학교 P-실무프로젝트 장려상 (AI ChatBot을 이용한 카드 추천 서비스)
+  🎖️ 가천대학교 P-실무프로젝트 장려상 (AI ChatBot을 이용한 카드 추천 서비스 BE 파트)
   <br/>
   <br/>
 
