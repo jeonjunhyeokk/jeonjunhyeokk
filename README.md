@@ -19,7 +19,8 @@
   <p align="left">👤 전준혁 (2001.12.17) </p>
   <p align="left">👤 가천대학교 컴퓨터공학과 학사 재중 (2020.03 ~ ) </p>
   <p align="left">👤 가천대학교 컴퓨터공학과 알고리즘 Lab 학부연구생 (2025.03 ~) </p>
-  <p align="left">👤 가천대학교 일반대학원 컴퓨터공학과 석사 1차시 예정 (2025.09 ~) </p>
+  <p align="left">👤 가천대학교 컴퓨터공학과 학사 졸업 (2026.02) </p>
+  <p align="left">👤 가천대학교 일반대학원 컴퓨터공학과 석사 1차시 (2026.03 ~) </p>
 
   <br>
 
@@ -68,6 +69,13 @@
   🎖️ 가천대학교 P-실무프로젝트 장려상 (AI ChatBot을 이용한 카드 추천 서비스 BE 파트)
   <br/>
   <br/>
+
+  ## 📝 Article 📝 
+  - **Title**: 전력 수요 예측을 위한 전기차 충전·기상·사회 요인 통합형 다변량 시계열 데이터셋 구축과 벤치마크 분석  
+  - **Journal**: APJCRI  
+  - **Link**: http://apjcriweb.org/content/vol11no11/30.html
+  <br>
+  <br>
 
   ## 💻 Github Stats 💻
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeonjunhyeokk&show_icons=true&theme=radical)
