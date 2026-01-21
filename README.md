@@ -74,6 +74,7 @@
   - **Title**: 전력 수요 예측을 위한 전기차 충전·기상·사회 요인 통합형 다변량 시계열 데이터셋 구축과 벤치마크 분석  
   - **Journal**: APJCRI  
   - **Link**: http://apjcriweb.org/content/vol11no11/30.html
+  - **DataSet**: https://www.kaggle.com/datasets/cjh6886/dataset-for-electricity-load-forecasting (Kaggle)
   <br>
   <br>
 
